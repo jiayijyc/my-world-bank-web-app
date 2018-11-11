@@ -1,5 +1,5 @@
 # My-World-Bank-Web-App
-This is a flask app that visualizes data from the world bank API. Data is pulled directly from the API and then visualized using Plotly. The link to the web app is [https://gdp-pg-web-app.herokuapp.com]
+This is a flask app that visualizes data from the world bank API. Data is pulled directly from the API and then visualized using Plotly. The link to the web app is [here](https://gdp-pg-web-app.herokuapp.com).
 
 ### 1. Installation ###
 To install the flask app, you need:
